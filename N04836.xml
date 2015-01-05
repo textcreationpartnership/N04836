@@ -119,13 +119,14 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:006037_0000_1027777768526340"/>
-            <pb facs="tcp:006037_0001_1027777D42E3E610" rendition="simple:additions"/>
+            <pb facs="unknown:006037_0000_1027777768526340"/>
+            <pb facs="unknown:006037_0001_1027777D42E3E610"
+                rendition="simple:additions"/>
             <p>Mr. <hi>Niles</hi>'s ESSAY ON <hi>GOD's Wonder-working Providence for</hi> New-England, <hi>in the Re<g ref="char:EOLhyphen"/>duction of</hi> Louisburg, <hi>&amp;c.</hi>
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:006037_0002_10277783D6E2FE58"/>
+            <pb facs="unknown:006037_0002_10277783D6E2FE58"/>
             <p>A Brief and Plain ESSAY ON <hi>GOD's Wonder-working Providence</hi> FOR NEW-ENGLAND, In the Reduction of <hi>Louiſburg,</hi> and Fortreſſes thereto belonging on CAPE-BRETON. WITH A ſhort hint in the Beginning, on the <hi>French</hi> Taking &amp; Plundering the People of CANSO, which led the ſeveral Governments to Unite and Purſue that Expedition. With the Names of the Leading Officers in the Army and the ſeveral Regiments to which they belonged.</p>
             <p>By <hi>SAM<g ref="char:V">Ʋ</g>EL NILES.</hi>
             </p>
@@ -149,8 +150,8 @@
             </p>
          </div>
          <div type="introduction">
-            <pb facs="tcp:006037_0003_102777871BA6DF68"/>
-            <pb facs="tcp:006037_0004_1027778BA626D498"/>
+            <pb facs="unknown:006037_0003_102777871BA6DF68"/>
+            <pb facs="unknown:006037_0004_1027778BA626D498"/>
             <head>The Introduction.</head>
             <lg>
                <l>
@@ -191,7 +192,7 @@
             </lg>
          </div>
          <div type="table_of_contents">
-            <pb facs="tcp:006037_0005_10277794E2769220"/>
+            <pb facs="unknown:006037_0005_10277794E2769220"/>
             <head>AN INDEX.</head>
             <list>
                <item>The Introduction.</item>
@@ -238,7 +239,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb n="1" facs="tcp:006037_0006_102777980DA47268"/>
+            <pb n="1" facs="unknown:006037_0006_102777980DA47268"/>
             <head>On the Taking of <hi>CANSO</hi> by the <hi>French,</hi> and Plundering the People there, <hi>1744.</hi>
             </head>
             <lg>
@@ -273,7 +274,7 @@
                <l>Muſt needs, without delay, be carried on.</l>
             </lg>
             <lg>
-               <pb n="2" facs="tcp:006037_0007_1027779B0554CEA0"/>
+               <pb n="2" facs="unknown:006037_0007_1027779B0554CEA0"/>
                <l>As Bears, bereav'd of young, or Lions ſtrong</l>
                <l>Rous'd from their Dens of eaſe, reſenting wrong,</l>
                <l>Laſh up their fury with their waving Tail,</l>
@@ -317,7 +318,7 @@
                <l>SHIRLEY, that fills of Government the Chair</l>
                <l>Wiſely Conducting in our Hemiſphere,</l>
                <l>
-                  <pb n="3" facs="tcp:006037_0008_102777A09AEFC468"/>
+                  <pb n="3" facs="unknown:006037_0008_102777A09AEFC468"/>
 Fired with zeal, for's King &amp; Country's Cauſe,</l>
                <l>To whom is due much honour and applauſe.</l>
             </lg>
@@ -355,7 +356,7 @@ Fired with zeal, for's King &amp; Country's Cauſe,</l>
                <l>THings thus concerted, and in wiſdom laid,</l>
                <l>That this Affair no longer be delay'd,</l>
                <l>
-                  <pb n="4" facs="tcp:006037_0009_102777A50A819B10"/>
+                  <pb n="4" facs="unknown:006037_0009_102777A50A819B10"/>
 A Proclamation is ſoon Iſſued then,</l>
                <l>With large Rewards, for the Enliſting Men.</l>
                <l>In which adjoining Governments Unite,</l>
@@ -397,7 +398,7 @@ A Proclamation is ſoon Iſſued then,</l>
                <l>Some early hopes that be would not us leave</l>
                <l>Until he had compleated what we Crave.</l>
                <l>
-                  <pb n="5" facs="tcp:006037_0010_102777A9F4549758"/>
+                  <pb n="5" facs="unknown:006037_0010_102777A9F4549758"/>
 Which ſome by Faith, firmly relied on,</l>
                <l>Till tidings came that LOUISBURG was won.</l>
             </lg>
@@ -435,7 +436,7 @@ Which ſome by Faith, firmly relied on,</l>
                   </note>
                </l>
                <l>
-                  <pb n="6" facs="tcp:006037_0011_102777ABAEBB8810"/>
+                  <pb n="6" facs="unknown:006037_0011_102777ABAEBB8810"/>
 They pray, they preach, and teach out of GOD'S Word,</l>
                <l>The way of Life, thro' JESUS CHRIST our LORD.</l>
                <l>Whoſe Names &amp; Deeds, enrolled long ſhall ſtand</l>
@@ -473,7 +474,7 @@ They pray, they preach, and teach out of GOD'S Word,</l>
                <l>United were, in their combined bands,</l>
                <l>Under GOD'S wiſe and heavenly Commands,</l>
                <l>
-                  <pb n="7" facs="tcp:006037_0012_102777AEA9DAE7A0"/>
+                  <pb n="7" facs="unknown:006037_0012_102777AEA9DAE7A0"/>
 To ſtill the Air, and make the Sky ſerene,</l>
                <l>So that to Labour, nought did intervene,</l>
             </lg>
@@ -512,7 +513,7 @@ To ſtill the Air, and make the Sky ſerene,</l>
                <l>Of warlike Ships, ſtrike dread on all they meet.</l>
             </lg>
             <lg>
-               <pb n="8" facs="tcp:006037_0013_102777B030284328"/>
+               <pb n="8" facs="unknown:006037_0013_102777B030284328"/>
                <l>But now when floating on the wat'ry Main,</l>
                <l>In hopes with ſpeed, th' enemies Shore to gain,</l>
                <l>Bor' as obſtructs, by's waters ſtill Congeal'd</l>
@@ -550,7 +551,7 @@ To ſtill the Air, and make the Sky ſerene,</l>
             </lg>
          </div>
          <div type="poem">
-            <pb n="9" facs="tcp:006037_0014_102777B1D2FF20F0"/>
+            <pb n="9" facs="unknown:006037_0014_102777B1D2FF20F0"/>
             <head>On the Forces, from <hi>CONNECTICUTT,</hi> and <hi>RHODE-ISLAND,</hi> Joining the <hi>MASSACHU<g ref="char:EOLhyphen"/>SETTS</hi> and <hi>NEW-HAMPSHIRE</hi> at <hi>Canſo.</hi>
             </head>
             <lg>
@@ -588,7 +589,7 @@ To ſtill the Air, and make the Sky ſerene,</l>
                <l>THE Forces thus compleat, they all agree,</l>
                <l>To forward the intent, they put to Sea,</l>
                <l>
-                  <pb n="10" facs="tcp:006037_0015_102777B4F61FB298"/>
+                  <pb n="10" facs="unknown:006037_0015_102777B4F61FB298"/>
 Then with Full-ſail, to the intended Shore,</l>
                <l>Under chief Convoy of the Commodore,</l>
                <l>Direct their Courſe, and ſoon arrive i'th' Bay</l>
@@ -635,7 +636,7 @@ Then with Full-ſail, to the intended Shore,</l>
                   </gap>
                </l>
                <l>
-                  <pb n="11" facs="tcp:006037_0016_102777BAD38F1098"/>
+                  <pb n="11" facs="unknown:006037_0016_102777BAD38F1098"/>
 Un<gap reason="illegible" resp="#PDCC" extent="3 letters">
                      <desc>•••</desc>
                   </gap>ll'd in modes of War, fearleſs they ran,</l>
@@ -678,7 +679,7 @@ Un<gap reason="illegible" resp="#PDCC" extent="3 letters">
                <l>With Trenches deep, &amp; Mounts caſt up on high,</l>
                <l>From whence they might, their roaring Cannon plie,</l>
                <l>
-                  <pb n="12" facs="tcp:006037_0017_102777BC575A7078"/>
+                  <pb n="12" facs="unknown:006037_0017_102777BC575A7078"/>
 Againſt the Walls, to ſhake, and batter down,</l>
                <l>Thereby to enter, and poſſeſs the Town.</l>
             </lg>
@@ -717,7 +718,7 @@ Againſt the Walls, to ſhake, and batter down,</l>
                <l>His head was Iron, with a peaked Horn,</l>
                <l>In ſemblance of a pictur'd Unicorn.)</l>
                <l>
-                  <pb n="13" facs="tcp:006037_0018_102777C139488530"/>
+                  <pb n="13" facs="unknown:006037_0018_102777C139488530"/>
 Breaches they make, i'th walls &amp; weſtern-gate,</l>
                <l>Adds life to ours, foretells the <hi>Frenches</hi> fate.</l>
                <l>Bold then as Lions, deſtitute of Fear,</l>
@@ -750,7 +751,7 @@ Breaches they make, i'th walls &amp; weſtern-gate,</l>
                <l>Their Dead's increas'd &amp; Wounded in great Store,</l>
                <l>Thenceforth from Fire the <hi>French</hi> in part give o're.</l>
                <l>
-                  <pb n="14" facs="tcp:006037_0019_102777C2C21FDE78"/>
+                  <pb n="14" facs="unknown:006037_0019_102777C2C21FDE78"/>
 It's worth our Notice, with Remarks upon,</l>
                <l>This mighty Theme, of Taking Cape-<hi>Breton,</hi>
                </l>
@@ -795,7 +796,7 @@ It's worth our Notice, with Remarks upon,</l>
             </lg>
          </div>
          <div type="poem">
-            <pb n="15" facs="tcp:006037_0020_1026E5BB1AA83FD0"/>
+            <pb n="15" facs="unknown:006037_0020_1026E5BB1AA83FD0"/>
             <head>On the M<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>es of Devotion, among the <hi>French,</hi> when thus Diſtrest and in great Fear.</head>
@@ -834,7 +835,7 @@ It's worth our Notice, with Remarks upon,</l>
                <l>— Is Ignorance, —</l>
                <l>But, Maxim true, of <hi>Papacies</hi> Subjection,</l>
                <l>
-                  <pb n="16" facs="tcp:006037_0021_102777C767BEE958"/>
+                  <pb n="16" facs="unknown:006037_0021_102777C767BEE958"/>
 Th' implicit Faith, that Sons of <hi>Rome</hi> profeſs,</l>
                <l>Is faithleſs Fraud, which wants words to expreſs.</l>
                <l>Merit they plead, on Super'rogation Acts,</l>
@@ -875,7 +876,7 @@ Th' implicit Faith, that Sons of <hi>Rome</hi> profeſs,</l>
                <l>Diſtorted Limbs and mangled Bodies roll</l>
                <l>In their own Gore, ſurvivers loud Condole,</l>
                <l>
-                  <pb n="17" facs="tcp:006037_0022_102777C8EC8552D8"/>
+                  <pb n="17" facs="unknown:006037_0022_102777C8EC8552D8"/>
 Their Friends dire Exit, and their Fate, leſs ſad</l>
                <l>Who aim'd at Conqueſt, Priſoners are made,</l>
                <l>Here confus'd Noiſe &amp; Garments roll'd in blood</l>
@@ -910,7 +911,7 @@ Their Friends dire Exit, and their Fate, leſs ſad</l>
                <l>Now ſpirits ſank, with heart-relenting Moans,</l>
                <l>Of Wife, &amp; Children, mix'd with dying Groans,</l>
                <l>
-                  <pb n="18" facs="tcp:006037_0023_102777CC15D0AFB0"/>
+                  <pb n="18" facs="unknown:006037_0023_102777CC15D0AFB0"/>
 Of Men and Women, Children, Sociates all,</l>
                <l>Each one expects, under, like Fate, to fall.</l>
             </lg>
@@ -970,7 +971,7 @@ Of Men and Women, Children, Sociates all,</l>
                <l>With Courage bold, and Reſolution ſtrong,</l>
                <l>Conclude, this Parley, they will not prolong.</l>
                <l>
-                  <pb n="19" facs="tcp:006037_0024_102777CDDA7FB100"/>
+                  <pb n="19" facs="unknown:006037_0024_102777CDDA7FB100"/>
 Cohorts in Ranks, and various Stations move,</l>
                <l>As by Command, Commanders do approve:</l>
                <l>Impatience moves, in the combined Bands,</l>
@@ -1002,7 +1003,7 @@ Cohorts in Ranks, and various Stations move,</l>
                <l>Behold, the Gates are now wide open thrown,</l>
                <l>Which to our <hi>Engliſh</hi> Arms adds much Renown.</l>
                <l>
-                  <pb n="20" facs="tcp:006037_0025_102777D55EA17228"/>
+                  <pb n="20" facs="unknown:006037_0025_102777D55EA17228"/>
 The <hi>Seventeenth</hi> of <hi>June</hi> PEPP'REL then lead 1745</l>
                <l>His hoſtile Troops (appearing at their Head)</l>
                <l>Into that City fortify'd with Walls,</l>
@@ -1043,7 +1044,7 @@ The <hi>Seventeenth</hi> of <hi>June</hi> PEPP'REL then lead 1745</l>
                <l>Miſchiefs reſulting thence are too well known.</l>
             </lg>
             <lg>
-               <pb n="21" facs="tcp:006037_0026_102777D9CFD3AE78"/>
+               <pb n="21" facs="unknown:006037_0026_102777D9CFD3AE78"/>
                <l>What further Crown'd this Conqueſt, Seiſures made,</l>
                <l>Of Three large Ships, each vaſtly rich in Trade,</l>
                <l>
@@ -1080,7 +1081,7 @@ The <hi>Seventeenth</hi> of <hi>June</hi> PEPP'REL then lead 1745</l>
             </lg>
          </div>
          <div type="introduction">
-            <pb n="22" facs="tcp:006037_0027_102777DCDADEB150"/>
+            <pb n="22" facs="unknown:006037_0027_102777DCDADEB150"/>
             <p>HERE follows the Names of the Leading Officers, in the ſeveral Regiments, that Served in the Army, under the Command of the Honourable WILLIAM PEPPERRELL <abbr>
                   <hi>Eſq</hi>
                </abbr> (now <hi>Baronet</hi>) Lieutenant-General, in the Reduction of <hi>Cape-Breton,</hi> to the Crown of GREAT-BRITAIN, <hi>June</hi> 17, 1745.</p>
@@ -1108,7 +1109,7 @@ The <hi>Seventeenth</hi> of <hi>June</hi> PEPP'REL then lead 1745</l>
                </l>
             </lg>
             <lg>
-               <pb n="23" facs="tcp:006037_0028_102777E46F554770"/>
+               <pb n="23" facs="unknown:006037_0028_102777E46F554770"/>
                <l>
                   <hi>Storer</hi> Lieutenant, in this Regiment,</l>
                <l>With Major <hi>Cutts,</hi> adventure the Event,</l>
@@ -1172,7 +1173,7 @@ The <hi>Seventeenth</hi> of <hi>June</hi> PEPP'REL then lead 1745</l>
             </lg>
             <lg>
                <pb n="24"
-                   facs="tcp:006037_0029_102777E8EA9970F8"
+                   facs="unknown:006037_0029_102777E8EA9970F8"
                    rendition="simple:additions"/>
                <l>
                   <hi>Lothrop</hi> likewiſe, in his Lieutenancie,</l>
@@ -1233,7 +1234,7 @@ The <hi>Seventeenth</hi> of <hi>June</hi> PEPP'REL then lead 1745</l>
             </lg>
             <lg>
                <pb n="25"
-                   facs="tcp:006037_0030_102777EBE22180C8"
+                   facs="unknown:006037_0030_102777EBE22180C8"
                    rendition="simple:additions"/>
                <l>
                   <hi>Waldo's</hi> Lieutenant, <hi>Noble</hi> is by Name,</l>
@@ -1296,7 +1297,7 @@ The <hi>Seventeenth</hi> of <hi>June</hi> PEPP'REL then lead 1745</l>
                <l>Expert in uſe of Arms, and martial Skill,</l>
                <l>Directs, each hoſtile Poſture, to fulfill.</l>
                <l>
-                  <pb n="26" facs="tcp:006037_0031_102777EF108A67D0"/>
+                  <pb n="26" facs="unknown:006037_0031_102777EF108A67D0"/>
 Col'nel alſo, Commiſſion'd is, and ſtands,</l>
                <l>Ready to Act, in Regimental Bands</l>
                <l>He, with's Lieutenant <hi>Thomas,</hi> grace the Plain,</l>
@@ -1361,7 +1362,7 @@ Col'nel alſo, Commiſſion'd is, and ſtands,</l>
                   <hi>WIllard,</hi> with his Lièutenant <hi>Chandler</hi> now,</l>
                <l>In Regimental Order plainly ſhow,</l>
                <l>
-                  <pb n="27" facs="tcp:006037_0032_102777F5428C4860"/>
+                  <pb n="27" facs="unknown:006037_0032_102777F5428C4860"/>
 Their wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>ing Minds, and r<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -1457,7 +1458,7 @@ Their wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
             </list>
          </div>
          <div type="poem">
-            <pb n="28" facs="tcp:006037_0033_102777F9B28B7FB8"/>
+            <pb n="28" facs="unknown:006037_0033_102777F9B28B7FB8"/>
             <head>Colonel <hi>Richmond</hi>'s Regiment.</head>
             <lg>
                <l>
@@ -1535,7 +1536,7 @@ Their wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
                <l>WHilſt we in honour, theſe Commanders have,</l>
                <l>Lets turn our tho'ts to Col'nel <hi>Gorham's</hi> grave</l>
                <l>
-                  <pb n="29" facs="tcp:006037_0034_102777FB372D32C8"/>
+                  <pb n="29" facs="unknown:006037_0034_102777FB372D32C8"/>
 Who with his Anceſtors, diſtinguiſh'd are,</l>
                <l>As men of Courage, mighty in the War.</l>
                <l>He lies Interr'd, in that new conquer'd Soil,</l>
@@ -1597,7 +1598,7 @@ Who with his Anceſtors, diſtinguiſh'd are,</l>
                </l>
                <l>And Major <hi>Gilman,</hi> theſe, with all above,</l>
                <l>
-                  <pb n="30" facs="tcp:006037_0035_102777FE451FFB30"/>
+                  <pb n="30" facs="unknown:006037_0035_102777FE451FFB30"/>
 As Patriots brave, in this <hi>New-Englands</hi> Land,</l>
                <l>The Conqueſt, that's obtain'd, takes, riſe from their Command.</l>
             </lg>
@@ -1663,7 +1664,7 @@ As Patriots brave, in this <hi>New-Englands</hi> Land,</l>
                <l>With active Minds, fidelity of Heart,</l>
                <l>(I'd almoſt ſaid) had done their double part.</l>
                <l>
-                  <pb n="31" facs="tcp:006037_0036_10277802A997FEB8"/>
+                  <pb n="31" facs="unknown:006037_0036_10277802A997FEB8"/>
 The roaring Cannon, execute their will.</l>
                <l>Mortars diſcharg'd, their wiſhes do fulfill.</l>
                <l>Theſe blazing Bomb<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1703,7 +1704,7 @@ The roaring Cannon, execute their will.</l>
                <l>At Weſtern Gate, the Walls to batter down,</l>
                <l>Thereby, to Conquer, and Poſſeſs the Town.</l>
                <l>
-                  <pb n="32" facs="tcp:006037_0037_102778042BE47EF8"/>
+                  <pb n="32" facs="unknown:006037_0037_102778042BE47EF8"/>
 Some, to Direct, and iſſue out Command,</l>
                <l>Others to Guard, holding their Swords in hand.</l>
                <l>Some tug at Cannon, drawing with their might,</l>
@@ -1746,7 +1747,7 @@ Some, to Direct, and iſſue out Command,</l>
                   <hi>Who may, or dare, with</hi> Engliſh <hi>Men to Vie?</hi>
                </l>
                <l>
-                  <pb n="33" facs="tcp:006037_0038_10277805B09462D8"/>
+                  <pb n="33" facs="unknown:006037_0038_10277805B09462D8"/>
                   <hi>Whoſe Counſels, Aids, and Politicks, do prove</hi>
                </l>
                <l>
@@ -1890,7 +1891,7 @@ Some, to Direct, and iſſue out Command,</l>
                   </gap> 
                   <hi>King</hi>'s Command,</l>
                <l>
-                  <pb n="34" facs="tcp:006037_0039_1027780735D520C0"/>
+                  <pb n="34" facs="unknown:006037_0039_1027780735D520C0"/>
 Removed, <hi>Popiſh</hi> Idols, and turn'd O're</l>
                <l>The ſtate of Things, from what they were before,</l>
                <l>What pious Zeal, and Ardours ſhou'd be ſhown.</l>
